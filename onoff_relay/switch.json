@@ -1,0 +1,14 @@
+{
+   "switch": [
+	
+      {
+         "id":"01",
+         "control": "on"
+      },
+	
+      {
+         "id":"02",
+         "control": "off"
+      }
+   ]
+}
