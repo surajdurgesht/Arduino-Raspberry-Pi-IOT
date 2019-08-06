@@ -1,0 +1,59 @@
+Partlist exported from E:/ARDUINO/Projects/arduino-uno-reference-design/arduino_Uno_ref/arduino_Uno_ref.sch at 15-12-2011 21:21:30
+
+Part     Value           Device          Package       Description                                           
+AD                       PINHD-1X6       1X06          PIN HEADER                                            
+C1       100n            C-EU0603-RND    C0603-ROUND   CAPACITOR, European symbol                            
+C2       100n            C-EU0603-RND    C0603-ROUND   CAPACITOR, European symbol                            
+C3       1u              C-EU0603-RND    C0603-ROUND   CAPACITOR, European symbol                            
+C4       100n            C-EU0603-RND    C0603-ROUND   CAPACITOR, European symbol                            
+C5       100n            C-EU0603-RND    C0603-ROUND   CAPACITOR, European symbol                            
+C6       100n            C-EU0603-RND    C0603-ROUND   CAPACITOR, European symbol                            
+C7       100n            C-EU0603-RND    C0603-ROUND   CAPACITOR, European symbol                            
+C8       1u              C-EU0603-RND    C0603-ROUND   CAPACITOR, European symbol                            
+C9       22p             C-EU0603-RND    C0603-ROUND   CAPACITOR, European symbol                            
+C10      22p             C-EU0603-RND    C0603-ROUND   CAPACITOR, European symbol                            
+C11      22p             C-EU0603-RND    C0603-ROUND   CAPACITOR, European symbol                            
+C12      22p             C-EU0603-RND    C0603-ROUND   CAPACITOR, European symbol                            
+D1       M7              DIODE-SMB       SMB           DIODE                                                 
+F1       500mA           L-EUL1812       L1812         INDUCTOR, European symbol                             
+GROUND                   SJ              SJ            SMD solder JUMPER                                     
+IC1      MC33269ST-5.0T3 MC33269ST-3.3T3 SOT223        Adjustable Output Low Dropout Voltage Regulator 800 mA
+IC2      MC33269D-5.0    MC33269D-5.0    DPACK         Adjustable Output Low Dropout Voltage Regulator 800 mA
+ICSP     ICSP            PINHD-2X3       2X03          PIN HEADER                                            
+ICSP1    ICSP            PINHD-2X3       2X03          PIN HEADER                                            
+IOH                      PINHD-1X8       1X08          PIN HEADER                                            
+IOL                      PINHD-1X8       1X08          PIN HEADER                                            
+L        YELLOW          LEDCHIP-LED0805 CHIP-LED0805  LED                                                   
+L1       BLM21           WE-CBF_0805     0805          SMD EMI Suppression Ferrite Beads                     
+ON       GREEN           LEDCHIP-LED0805 CHIP-LED0805  LED                                                   
+PC1      47u             CPOL-EUD        PANASONIC_D   POLARIZED CAPACITOR, European symbol                  
+PC2      47u             CPOL-EUD        PANASONIC_D   POLARIZED CAPACITOR, European symbol                  
+POWER                    PINHD-1X6       1X06          PIN HEADER                                            
+Q1       16MHz           XTAL/S          QS            CRYSTAL                                               
+Q2       16MHz           XTAL/S          QS            CRYSTAL                                               
+R1       1M              R-EU_R0603      R0603-ROUND   RESISTOR, European symbol                             
+R2       1M              R-EU_R0603      R0603-ROUND   RESISTOR, European symbol                             
+R3       27R             R-EU_R0603      R0603-ROUND   RESISTOR, European symbol                             
+RESET    TS42            TS42            TS42          TS42                                                  
+RESET-EN                 SJ              SJ            SMD solder JUMPER                                     
+RN1      10K             4R-NCAY16       CAY16         Array Chip Resistor                                   
+RN2      1K              4R-NCAY16       CAY16         Array Chip Resistor                                   
+RN3      22R             4R-NCAY16       CAY16         Array Chip Resistor                                   
+RN4      1K              4R-NCAY16       CAY16         Array Chip Resistor                                   
+RX       YELLOW          LEDCHIP-LED0805 CHIP-LED0805  LED                                                   
+T1       FDN304V         PMOSSOT23       SOT-23        MOS FET                                               
+TX       YELLOW          LEDCHIP-LED0805 CHIP-LED0805  LED                                                   
+U$3      FIDUCIALMOUNT   FIDUCIALMOUNT   FIDUCIA-MOUNT                                                       
+U$4      FIDUCIALMOUNT   FIDUCIALMOUNT   FIDUCIA-MOUNT                                                       
+U$6      FIDUCIALMOUNT   FIDUCIALMOUNT   FIDUCIA-MOUNT                                                       
+U1       LM358D          LM358D          SO08          OP AMP also LM158; LM258; LM2904                      
+U2       LP2985-33DBVR   TPS77033        SOT23-DBV     ULTRALOW-POWER 50-mA LOW-DROPOUT LINEAR REGULATORS    
+U3       ATMEGA8U2-MU    ATMEGA8U2-MU    QFN32                                                               
+UBOOT                    SJ              SJ            SMD solder JUMPER                                     
+X1       DC21MMX         DC21MMX         DC-21MM                                                             
+X2                       PN61729         PN61729       BERG USB connector                                    
+Y1       16MHz           RESONATORMU     RESONATOR                                                           
+Y2       16MHz           RESONATORMU     RESONATOR                                                           
+Z1       PGB1010604      VARISTORCN0603  CT/CN0603     VARISTOR                                              
+Z2       PGB1010604      VARISTORCN0603  CT/CN0603     VARISTOR                                              
+ZIC1     ATMEGA8         AT90S4433P      DIL28-3       MICROCONTROLLER                                       
